@@ -1,5 +1,7 @@
 # iq-select demo
 
+https://borovin.github.io/iq-select-demo/
+
 ## Run locally
 
 ```
