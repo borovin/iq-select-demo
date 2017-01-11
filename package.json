@@ -20,7 +20,7 @@
     "lodash": "^4.17.2",
     "react": "^15.4.0",
     "react-dom": "^15.4.0",
-    "serve": "^1.4.0",
+    "serve": "^2.2.0",
     "style-loader": "^0.13.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^2.3.1",
