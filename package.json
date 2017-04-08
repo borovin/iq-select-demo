@@ -19,7 +19,7 @@
     "iq-select": "borovin/iq-select",
     "lodash": "^4.17.2",
     "react": "^15.4.0",
-    "react-dom": "^15.4.0",
+    "react-dom": "^15.5.3",
     "serve": "^1.4.0",
     "style-loader": "^0.13.1",
     "stylus": "^0.54.5",
